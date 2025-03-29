@@ -1,2 +1,1 @@
-# Finance-Tracker
-Ongoing Project
+# Personal-FInance-Tracker

@@ -1,5 +1,5 @@
 # Personal-FInance-Tracker
-# Personal Finance Tracker
+
 
 A web-based personal finance management application built with Python and Flask. It allows users to manage their profiles, maintain bank account information, and track financial transactions through a simple and organized interface.
 
